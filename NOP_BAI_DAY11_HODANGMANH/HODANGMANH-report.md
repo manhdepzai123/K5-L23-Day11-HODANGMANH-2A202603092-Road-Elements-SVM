@@ -5,9 +5,8 @@ Mã học viên: 2A202603092
 Phiên bản CVAT (Help → About): 2.80.0  
 Guideline: Road v1.0  
 Lần nộp (revision theo Manifest): 1  
-Thời điểm export theo thông tin đã cung cấp: 21/11/2026; chưa có giờ export từ CVAT  
-Số lần nộp lại sau Rework: 2 (theo thông tin người nộp cung cấp; cần xác nhận lại khái niệm Rework chính thức)  
-
+Thời điểm export theo thông tin đã cung cấp: 21/11/2026
+Số lần nộp lại sau Rework: 1
 Ghi chú về lịch sử nộp: Manifest hiện ghi revision 1. Nếu đã có hai lần nộp lại theo quyết định Rework chính thức của coach thì revision thông thường phải là 3, không phải 1. Nếu chỉ là hai lần tự sửa/kiểm tra nội bộ trước lần nộp đầu tiên thì giữ revision 1 và điền số lần nộp lại sau Rework là 0. Chưa thay đổi Manifest khi chưa xác minh được điều này.
 
 ## 1. Kiểm project
